@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+💻 Tech Stack:
+HTML CSS Tailwind-CSS JavaScript React Redux NodeJS ExpressJS MongoDB and Nextjs. 
 <!--
 **Danishmalik1997/Danishmalik1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
