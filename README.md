@@ -1,5 +1,5 @@
 ### Hi there 👋
-💻 Tech Stack:
+Socials : 
 ![download](https://github.com/Danishmalik1997/Danishmalik1997/assets/109062080/8291938c-e1c8-4a90-9e4c-827615070ec6)
 ![download](https://github.com/Danishmalik1997/Danishmalik1997/assets/109062080/42169241-0e06-4692-b325-8e02ae57fc81)
 ![download](https://github.com/Danishmalik1997/Danishmalik1997/assets/109062080/8b1f3dfd-e6f7-4dee-8b41-485a7b433c2c)
