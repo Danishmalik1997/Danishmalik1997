@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧑‍💻 Tech Stack -> Html, CSS, Tailwind-Css, Javascript,jQuery, React, Redux, Node.js, Express.js, Ejs, MongoDb, Nextjs and Web 3.0. 
+🧑‍💻 Tech Stack -> Html, CSS, Tailwind-Css, Javascript,jQuery, React, Redux, Node.js, Express.js, Ejs, MongoDb, Nextjs.
 - 🔭 I’m currently working as ... Heavy Front-End and Back-End Developer. 
 - 🌱 I’m currently learning ... Web 3.0 - Decentralization, Blockchain technology and token based economy.
 
