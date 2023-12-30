@@ -2,7 +2,6 @@
 
 🧑‍💻 Tech Stack -> Html, CSS, Tailwind-Css, Javascript, React, Redux, Node.js, Express.js, MongoDb, Nextjs.
 - 🔭 I’m currently working as ... Heavy Front-End and Back-End Developer.
-- 
 <!--
 **Danishmalik1997/Danishmalik1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
